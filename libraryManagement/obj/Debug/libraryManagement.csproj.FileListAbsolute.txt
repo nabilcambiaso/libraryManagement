@@ -1,0 +1,14 @@
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\bin\Debug\libraryManagement.exe.config
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\bin\Debug\libraryManagement.exe
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\bin\Debug\libraryManagement.pdb
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.Properties.Resources.resources
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.csproj.GenerateResource.Cache
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.exe
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.pdb
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.Dashboard.resources
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.Products.resources
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.LoginCs.resources
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.CustomMessageBox.resources
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.HomePage.resources
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.SettingsCs.resources
+C:\Users\M2\Desktop\C# projects\libraryManagement\libraryManagement\obj\Debug\libraryManagement.csprojResolveAssemblyReference.cache

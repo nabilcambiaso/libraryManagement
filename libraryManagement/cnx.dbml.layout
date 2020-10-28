@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="cnx">
+  <DataContextMoniker Name="/cnxDataContext" />
+  <nestedChildShapes>
+    <classShape Id="198323ac-e3e4-45a6-ad85-a4555fabe01a" isExpanded="false" absoluteBounds="0.5, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/cnxDataContext/LOGIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8eac52dc-f2e0-40b8-bd97-2afe322abb73" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ab9f9552-c7ab-4797-a2b0-4b5ed4883d8e" isExpanded="false" absoluteBounds="3, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/cnxDataContext/PRODUCT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c1fd2cb-f25e-4d46-aa55-cf83c7c69923" absoluteBounds="3.015, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 0.725); (3 : 0.725)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/cnxDataContext/LOGIN/LOGIN_PRODUCT" />
+      <nodes>
+        <classShapeMoniker Id="198323ac-e3e4-45a6-ad85-a4555fabe01a" />
+        <classShapeMoniker Id="ab9f9552-c7ab-4797-a2b0-4b5ed4883d8e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
